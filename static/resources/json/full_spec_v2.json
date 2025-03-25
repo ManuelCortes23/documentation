@@ -13330,14 +13330,14 @@
                 "enum": [
                   "attack_attempt",
                   "business_logic",
-                  "security_responses"
+                  "security_response"
                 ],
                 "example": "business_logic",
                 "type": "string",
                 "x-enum-varnames": [
                   "ATTACK_ATTEMPT",
                   "BUSINESS_LOGIC",
-                  "SECURITY_RESPONSES"
+                  "SECURITY_RESPONSE"
                 ]
               },
               "type": {
@@ -14068,14 +14068,14 @@
                 "enum": [
                   "attack_attempt",
                   "business_logic",
-                  "security_responses"
+                  "security_response"
                 ],
                 "example": "business_logic",
                 "type": "string",
                 "x-enum-varnames": [
                   "ATTACK_ATTEMPT",
                   "BUSINESS_LOGIC",
-                  "SECURITY_RESPONSES"
+                  "SECURITY_RESPONSE"
                 ]
               },
               "type": {
@@ -14364,14 +14364,14 @@
                     "enum": [
                       "attack_attempt",
                       "business_logic",
-                      "security_responses"
+                      "security_response"
                     ],
                     "example": "business_logic",
                     "type": "string",
                     "x-enum-varnames": [
                       "ATTACK_ATTEMPT",
                       "BUSINESS_LOGIC",
-                      "SECURITY_RESPONSES"
+                      "SECURITY_RESPONSE"
                     ]
                   },
                   "type": {
@@ -14682,14 +14682,14 @@
                         "enum": [
                           "attack_attempt",
                           "business_logic",
-                          "security_responses"
+                          "security_response"
                         ],
                         "example": "business_logic",
                         "type": "string",
                         "x-enum-varnames": [
                           "ATTACK_ATTEMPT",
                           "BUSINESS_LOGIC",
-                          "SECURITY_RESPONSES"
+                          "SECURITY_RESPONSE"
                         ]
                       },
                       "type": {
@@ -15042,14 +15042,14 @@
                     "enum": [
                       "attack_attempt",
                       "business_logic",
-                      "security_responses"
+                      "security_response"
                     ],
                     "example": "business_logic",
                     "type": "string",
                     "x-enum-varnames": [
                       "ATTACK_ATTEMPT",
                       "BUSINESS_LOGIC",
-                      "SECURITY_RESPONSES"
+                      "SECURITY_RESPONSE"
                     ]
                   },
                   "type": {
@@ -15403,14 +15403,14 @@
                           "enum": [
                             "attack_attempt",
                             "business_logic",
-                            "security_responses"
+                            "security_response"
                           ],
                           "example": "business_logic",
                           "type": "string",
                           "x-enum-varnames": [
                             "ATTACK_ATTEMPT",
                             "BUSINESS_LOGIC",
-                            "SECURITY_RESPONSES"
+                            "SECURITY_RESPONSE"
                           ]
                         },
                         "type": {
@@ -15806,14 +15806,14 @@
                         "enum": [
                           "attack_attempt",
                           "business_logic",
-                          "security_responses"
+                          "security_response"
                         ],
                         "example": "business_logic",
                         "type": "string",
                         "x-enum-varnames": [
                           "ATTACK_ATTEMPT",
                           "BUSINESS_LOGIC",
-                          "SECURITY_RESPONSES"
+                          "SECURITY_RESPONSE"
                         ]
                       },
                       "type": {
@@ -15894,14 +15894,14 @@
             "enum": [
               "attack_attempt",
               "business_logic",
-              "security_responses"
+              "security_response"
             ],
             "example": "business_logic",
             "type": "string",
             "x-enum-varnames": [
               "ATTACK_ATTEMPT",
               "BUSINESS_LOGIC",
-              "SECURITY_RESPONSES"
+              "SECURITY_RESPONSE"
             ]
           },
           "type": {
@@ -15921,14 +15921,14 @@
         "enum": [
           "attack_attempt",
           "business_logic",
-          "security_responses"
+          "security_response"
         ],
         "example": "business_logic",
         "type": "string",
         "x-enum-varnames": [
           "ATTACK_ATTEMPT",
           "BUSINESS_LOGIC",
-          "SECURITY_RESPONSES"
+          "SECURITY_RESPONSE"
         ]
       },
       "ApplicationSecurityWafCustomRuleType": {
@@ -16204,14 +16204,14 @@
                 "enum": [
                   "attack_attempt",
                   "business_logic",
-                  "security_responses"
+                  "security_response"
                 ],
                 "example": "business_logic",
                 "type": "string",
                 "x-enum-varnames": [
                   "ATTACK_ATTEMPT",
                   "BUSINESS_LOGIC",
-                  "SECURITY_RESPONSES"
+                  "SECURITY_RESPONSE"
                 ]
               },
               "type": {
@@ -16500,14 +16500,14 @@
                     "enum": [
                       "attack_attempt",
                       "business_logic",
-                      "security_responses"
+                      "security_response"
                     ],
                     "example": "business_logic",
                     "type": "string",
                     "x-enum-varnames": [
                       "ATTACK_ATTEMPT",
                       "BUSINESS_LOGIC",
-                      "SECURITY_RESPONSES"
+                      "SECURITY_RESPONSE"
                     ]
                   },
                   "type": {
@@ -16818,14 +16818,14 @@
                         "enum": [
                           "attack_attempt",
                           "business_logic",
-                          "security_responses"
+                          "security_response"
                         ],
                         "example": "business_logic",
                         "type": "string",
                         "x-enum-varnames": [
                           "ATTACK_ATTEMPT",
                           "BUSINESS_LOGIC",
-                          "SECURITY_RESPONSES"
+                          "SECURITY_RESPONSE"
                         ]
                       },
                       "type": {
@@ -364082,14 +364082,14 @@
                                     "enum": [
                                       "attack_attempt",
                                       "business_logic",
-                                      "security_responses"
+                                      "security_response"
                                     ],
                                     "example": "business_logic",
                                     "type": "string",
                                     "x-enum-varnames": [
                                       "ATTACK_ATTEMPT",
                                       "BUSINESS_LOGIC",
-                                      "SECURITY_RESPONSES"
+                                      "SECURITY_RESPONSE"
                                     ]
                                   },
                                   "type": {
@@ -364483,14 +364483,14 @@
                                 "enum": [
                                   "attack_attempt",
                                   "business_logic",
-                                  "security_responses"
+                                  "security_response"
                                 ],
                                 "example": "business_logic",
                                 "type": "string",
                                 "x-enum-varnames": [
                                   "ATTACK_ATTEMPT",
                                   "BUSINESS_LOGIC",
-                                  "SECURITY_RESPONSES"
+                                  "SECURITY_RESPONSE"
                                 ]
                               },
                               "type": {
@@ -364855,14 +364855,14 @@
                                   "enum": [
                                     "attack_attempt",
                                     "business_logic",
-                                    "security_responses"
+                                    "security_response"
                                   ],
                                   "example": "business_logic",
                                   "type": "string",
                                   "x-enum-varnames": [
                                     "ATTACK_ATTEMPT",
                                     "BUSINESS_LOGIC",
-                                    "SECURITY_RESPONSES"
+                                    "SECURITY_RESPONSE"
                                   ]
                                 },
                                 "type": {
@@ -365525,14 +365525,14 @@
                                   "enum": [
                                     "attack_attempt",
                                     "business_logic",
-                                    "security_responses"
+                                    "security_response"
                                   ],
                                   "example": "business_logic",
                                   "type": "string",
                                   "x-enum-varnames": [
                                     "ATTACK_ATTEMPT",
                                     "BUSINESS_LOGIC",
-                                    "SECURITY_RESPONSES"
+                                    "SECURITY_RESPONSE"
                                   ]
                                 },
                                 "type": {
@@ -365937,14 +365937,14 @@
                                 "enum": [
                                   "attack_attempt",
                                   "business_logic",
-                                  "security_responses"
+                                  "security_response"
                                 ],
                                 "example": "business_logic",
                                 "type": "string",
                                 "x-enum-varnames": [
                                   "ATTACK_ATTEMPT",
                                   "BUSINESS_LOGIC",
-                                  "SECURITY_RESPONSES"
+                                  "SECURITY_RESPONSE"
                                 ]
                               },
                               "type": {
@@ -366309,14 +366309,14 @@
                                   "enum": [
                                     "attack_attempt",
                                     "business_logic",
-                                    "security_responses"
+                                    "security_response"
                                   ],
                                   "example": "business_logic",
                                   "type": "string",
                                   "x-enum-varnames": [
                                     "ATTACK_ATTEMPT",
                                     "BUSINESS_LOGIC",
-                                    "SECURITY_RESPONSES"
+                                    "SECURITY_RESPONSE"
                                   ]
                                 },
                                 "type": {
